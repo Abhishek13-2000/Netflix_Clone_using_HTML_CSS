@@ -1,4 +1,4 @@
-#Languages used.
+
  Netflix Clone UI using HTML and CSS but it is not responsive to mobile devices.
 
  #Output
